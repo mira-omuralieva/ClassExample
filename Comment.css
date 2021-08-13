@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(154, 231, 231);
+}
+.container{
+    background-color: rgb(138, 152, 236);
+    width: 500px;
+    height: 300px;
+    border: 4px solid black;
+    margin-top: 150px;
+    margin-left: 350px;
+    padding: 60px;
+}
+div{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#but{
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#but:hover{
+    background-color: rgb(137, 145, 146);
+}
+h2{
+    font-size:40px;
+}
+p{
+    font-size: 23px;
+    font-weight: 700;
+    font-family: cursive
+}
